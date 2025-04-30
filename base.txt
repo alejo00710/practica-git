@@ -1,1 +1,1 @@
-Este es el archivo base para la práctica.
+Este archivo fue editado desde feature-2.
