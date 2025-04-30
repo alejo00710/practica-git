@@ -1,1 +1,2 @@
 Este archivo fue editado desde main (para generar conflicto).
+Este archivo fue editado desde feature-2.
